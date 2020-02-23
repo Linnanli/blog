@@ -2,7 +2,7 @@
 
 有关于开源代码的问题需要快速反馈和有一些意见可以通过QQ群和作者联系：
 
-QQ群: [482456801](https://jq.qq.com/?_wv=1027&k=5mIdGO3)
+QQ群: <a href="https://jq.qq.com/?_wv=1027&k=5mIdGO3" target="_blank">482456801</a>
 
 # 赞助
 
