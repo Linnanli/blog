@@ -4,6 +4,8 @@
 
 QQ群: <a href="https://jq.qq.com/?_wv=1027&k=5mIdGO3" target="_blank">482456801</a>
 
+email: nally.lin@qq.com
+
 # 赞助
 
 如果作者的开源代码对你有帮助的话可以打赏作者一杯奶茶钱😄，当作对作者的激励，让作者更有动力的去维护开源代码。
